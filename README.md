@@ -1,1 +1,1 @@
-Microfrontends on React
+Microfrontends basic
